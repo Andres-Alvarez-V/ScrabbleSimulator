@@ -4,7 +4,7 @@ Este manual le permitirá observar la interacción del sistema "Scrabble Project
 #### ¿Qué es Scrabble Proyect? 
 Esta es un Código que simula parte del juego de mesa Scrabble, el cual es un juego que busca la interacción de jugadores con diferentes letras con las cuales el jugador deberá crear diferentes palabras pero siempre buscando la palabra con mejor puntaje, ya que cada letra tendrá un puntaje, el propósito con este código es fomentar y aconsejar a los jugadores proporcionando una lista de las 10 mejores palabras según las letras que el jugador tengo disponibles, esto facilitara al jugador ya que podrá tener la opción de escoger la mejor jugado posible y así poder conseguir una victoria más fácilmente.
 
-##¿Como funciona esta aplicación? 
+## ¿Como funciona esta aplicación? 
 #### ¿Cómo acceder al programa?
 Para acceder al programa lo primero que deberá hacer será descargar el Código de la aplicación llamada "Scrabble Project”, luego de descargar el Código, podrá dirigirse a compilarlo y ejecutarlo ya sea en netbeans, jetbrains, blueJ... Al momento de ejecutar este programa (Código), se podrá observar un mensaje el cual estará mostrando el número de palabras que se leyeron en el diccionario agregado, seguido de esto te aparecerá un mensaje dándote la bienvenida al juego, luego aparecerá un mensaje en el que aparece la cantidad de jugadores disponibles, para después escoger el número de jugadores, después de ingresar el número de jugadores el sistema te pedirá el nombre de cada uno de los participantes para entregar las letras que cada jugador va a tener.
 
